@@ -1,0 +1,28 @@
+{
+    "TestData1": {
+        "Name": "Devi",
+        "Email": "devi@gmail.com",
+        "Phone": "8908908908",
+        "Address": "Hyderabad",
+        "Wikipedia": "testing",
+        "errormessage": "text should not exceed 100 characters"
+    },
+    "TestData2": {
+        "Name": "Kalyani",
+        "Email": "Kalyani@gmail.com",
+        "Phone": "1234567890",
+        "Address": "Bangalore",
+        "Wikipedia": "playwright"
+    },
+    "TestData3": {
+        "Name": "leela",
+        "Email": "leela@gmail.com",
+        "Phone": "5678956789",
+        "Address": "Chennai",
+        "Wikipedia": "Selenium"
+    },
+    "OrangeHRMUserCredentails": {
+        "Username": "Admin",
+        "Password": "admin123"
+    }
+}
